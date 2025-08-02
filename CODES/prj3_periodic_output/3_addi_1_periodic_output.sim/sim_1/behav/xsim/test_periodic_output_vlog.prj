@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../3_addi_1_periodic_output.srcs/sources_1/new/periodic_output.v" \
+"../../../../3_addi_1_periodic_output.srcs/sim_1/new/test_periodic_output.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

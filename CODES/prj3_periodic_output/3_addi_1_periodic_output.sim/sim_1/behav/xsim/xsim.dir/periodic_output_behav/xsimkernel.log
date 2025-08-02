@@ -1,0 +1,7 @@
+Running: xsim.dir/periodic_output_behav/xsimk.exe -simmode gui -wdb periodic_output_behav.wdb -simrunnum 0 -socket 64271
+Design successfully loaded
+Design Loading Memory Usage: 12356 KB (Peak: 12356 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 12892 KB (Peak: 12892 KB)
+Simulation CPU Usage: 0 ms
