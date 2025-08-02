@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/drago/Desktop/2024-25Fall/SHUZIDIANLU/experiment/exp_2.5/4位计数器/count_4.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module count_4
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/drago/Desktop/2024-25Fall/SHUZIDIANLU/experiment/exp_2.5/4位计数器/test_count_4.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module test_count_4
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/drago/Desktop/2024-25Fall/SHUZIDIANLU/experiment/Projects/2.5_1_count4/2.5_1_count4.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl
