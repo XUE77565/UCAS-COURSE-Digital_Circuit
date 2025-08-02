@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../exp_2.5/状态机/fsm_2_三段式.v" \
+"../../../../../../exp_2.5/状态机/test_fsm_2.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
