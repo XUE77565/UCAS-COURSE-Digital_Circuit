@@ -1,2 +1,3 @@
-# UCAS-COURSE-Digital_Circuit
-ucas course- digital_circuit by 李文明
+中国科学院大学 李文明班 数字电路课程
+
+包括所有实验课的程序代码(所有的必做和选做)
