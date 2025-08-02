@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="test_fifo3_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="test_fifo3" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="795.340 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,008.741 ns"></ZoomEndTime>
+      <Cursor1Time time="491.590 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="91"></NameColumnWidth>
+      <ValueColumnWidth column_width="90"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/test_fifo3/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_fifo3/rstn" type="logic">
+      <obj_property name="ElementShortName">rstn</obj_property>
+      <obj_property name="ObjectShortName">rstn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_fifo3/data" type="array">
+      <obj_property name="ElementShortName">data[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_fifo3/out" type="array">
+      <obj_property name="ElementShortName">out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">out[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_fifo3/input_valid" type="logic">
+      <obj_property name="ElementShortName">input_valid</obj_property>
+      <obj_property name="ObjectShortName">input_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_fifo3/output_enable" type="logic">
+      <obj_property name="ElementShortName">output_enable</obj_property>
+      <obj_property name="ObjectShortName">output_enable</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_fifo3/test_sim_fifo/read_period" type="array">
+      <obj_property name="ElementShortName">read_period[3:0]</obj_property>
+      <obj_property name="ObjectShortName">read_period[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_fifo3/test_sim_fifo/write_period" type="array">
+      <obj_property name="ElementShortName">write_period[3:0]</obj_property>
+      <obj_property name="ObjectShortName">write_period[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_fifo3/test_sim_fifo/mem" type="array">
+      <obj_property name="ElementShortName">mem[31:0][15:0]</obj_property>
+      <obj_property name="ObjectShortName">mem[31:0][15:0]</obj_property>
+   </wvobject>
+</wave_config>
