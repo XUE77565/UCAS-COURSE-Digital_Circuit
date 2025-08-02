@@ -1,0 +1,24 @@
+Time resolution is 1 ps
+                   0  clk=0 reset=0 out= x 
+                  50  clk=1 reset=0 out= x 
+                 100  clk=0 reset=0 out= x 
+                 101  clk=0 reset=1 out= x 
+                 150  clk=1 reset=1 out= 0 
+                 200  clk=0 reset=1 out= 0 
+                 201  clk=0 reset=0 out= 0 
+                 250  clk=1 reset=0 out= 1 
+                 300  clk=0 reset=0 out= 1 
+                 350  clk=1 reset=0 out= 2 
+                 400  clk=0 reset=0 out= 2 
+                 450  clk=1 reset=0 out= 3 
+                 500  clk=0 reset=0 out= 3 
+                 550  clk=1 reset=0 out= 4 
+                 600  clk=0 reset=0 out= 4 
+                 650  clk=1 reset=0 out= 5 
+                 700  clk=0 reset=0 out= 5 
+                 750  clk=1 reset=0 out= 6 
+                 800  clk=0 reset=0 out= 6 
+                 850  clk=1 reset=0 out= 7 
+                 900  clk=0 reset=0 out= 7 
+                 950  clk=1 reset=0 out= 8 
+                1000  clk=0 reset=0 out= 8 
