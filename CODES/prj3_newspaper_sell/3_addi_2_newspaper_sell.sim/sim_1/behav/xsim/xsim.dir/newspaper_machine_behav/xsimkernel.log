@@ -1,0 +1,7 @@
+Running: xsim.dir/newspaper_machine_behav/xsimk.exe -simmode gui -wdb newspaper_machine_behav.wdb -simrunnum 0 -socket 56225
+Design successfully loaded
+Design Loading Memory Usage: 12344 KB (Peak: 12344 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 12888 KB (Peak: 12888 KB)
+Simulation CPU Usage: 0 ms

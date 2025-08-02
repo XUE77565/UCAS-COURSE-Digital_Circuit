@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../3_addi_2_newspaper_sell.srcs/sources_1/new/newspaper_machine.v" \
+"../../../../3_addi_2_newspaper_sell.srcs/sim_1/new/check_newpaper_machine.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
